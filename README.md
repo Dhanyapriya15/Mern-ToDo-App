@@ -30,15 +30,21 @@ A full-stack **Todo Task Management Web Application** built using the **MERN sta
 
 #To Run the Application
 cd backend
+
 npm install
+
 node index.js
+
 The backend server will run at:
 http://localhost:4001
 
 
-cd ../frontend
+cd frontend
+
 npm install
+
 npm run dev
+
 The frontend React app will run at:
 http://localhost:5173
 
