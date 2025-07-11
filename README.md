@@ -29,6 +29,7 @@ A full-stack **Todo Task Management Web Application** built using the **MERN sta
 | Styling      | Tailwind CSS             |
 
 #To Run the Application
+
 cd backend
 
 npm install
